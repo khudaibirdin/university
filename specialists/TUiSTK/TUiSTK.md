@@ -24,4 +24,4 @@
 
 ### Материалы для чтения
 * [Телекоммуникации - Презентация МГТУ](content/pres_maslennikov.pdf)
-* [Описание протокола Modbus RTU](coontent/Теория_ModBus_RTU.pdf)
+* [Описание протокола Modbus RTU](content/Теория_ModBus_RTU.pdf)
