@@ -1,9 +1,9 @@
 # Модуль "Разработка программного обеспечения на MicroPython"
 
-## [Подготовительные мероприятия](docs/firmware.md)
-
-## [Загрузка прошивки MicroPython в Thonny](static/firmware.mp4)
-## [Программирование в Thonny](static/program.mp4)
+## Обучение
+* [Подготовительные мероприятия](docs/firmware.md)
+* [Загрузка прошивки MicroPython в Thonny](static/firmware.mp4)
+* [Программирование в Thonny](static/program.mp4)
 
 ## Теоретические сведения
 * [Документация](https://docs.micropython.org/en/latest/esp32/quickref.html)
