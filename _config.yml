@@ -4,8 +4,7 @@ plugins:
   - jekyll-seo-tag
 title: Лабораторные работы
 description: Худайбирдин И.М.
-minima:
-  skin: dark
 header_pages:
   - readme.md
-show_excerpts: false
+minima:
+  skin: dark
