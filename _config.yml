@@ -5,6 +5,5 @@ plugins:
 title: Лабораторные работы
 description: Худайбирдин И.М.
 header_pages:
-  - readme.md
 minima:
   skin: dark
