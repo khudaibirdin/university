@@ -1,3 +1,4 @@
+``` python
 from serial import ModbusRTU
 
 # пины для UART
@@ -59,3 +60,4 @@ while True:
         result = client.process()
     except Exception as e:
         print('Exception during execution: {}'.format(e))
+```

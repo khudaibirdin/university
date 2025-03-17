@@ -22,5 +22,5 @@
 * указать идентичные параметры Modbus RTU в Slave и в Master
 
 ## Защита
-* https://habr.com/ru/companies/advantech/articles/450234/
-* https://asutp.ru/publikacii/2021/04/29/prosto-o-standartah-opc-da-i-opc-ua/ (OPC UA, OPC DA)
+* [Источник](https://habr.com/ru/companies/advantech/articles/450234/)
+* [Источник](https://asutp.ru/publikacii/2021/04/29/prosto-o-standartah-opc-da-i-opc-ua/) (OPC UA, OPC DA)

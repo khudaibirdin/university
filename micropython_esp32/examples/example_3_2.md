@@ -1,3 +1,4 @@
+``` python
 # импорт необходимых модулей
 import network
 import socket
@@ -70,3 +71,5 @@ try:
     start_web_server(ip_address)  # Запуск веб-сервера
 except Exception as e:
     print("Ошибка:", e)
+
+```

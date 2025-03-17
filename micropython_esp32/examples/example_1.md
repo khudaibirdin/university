@@ -1,3 +1,4 @@
+``` python
 # импорт необходимых модулей
 from machine import Pin
 import time
@@ -12,3 +13,4 @@ while True:
     time.sleep(1)  # Подождать 1 секунду
     led.value(0)  # Выключить светодиод
     time.sleep(1)  # Подождать 1 секунду
+```

@@ -1,3 +1,4 @@
+``` python
 import bluetooth
 import time
 
@@ -63,3 +64,4 @@ while True:
     temp = int(time.time() % 1000)  # Данные, которые будем отправлять
     ble.send_data(b"Data: %d" % temp)  # Отправка данных
     time.sleep(2)
+```

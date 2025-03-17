@@ -57,5 +57,5 @@ def do_connect():
 В отчете представить скриншоты и описание действий по пунктам, представленным в задании
 
 ## Защита
-* https://habr.com/ru/companies/timeweb/articles/672494/
-* https://habr.com/ru/companies/timeweb/articles/677452/
+* [Источник](https://habr.com/ru/companies/timeweb/articles/672494/)
+* [Источник](https://habr.com/ru/companies/timeweb/articles/677452/)

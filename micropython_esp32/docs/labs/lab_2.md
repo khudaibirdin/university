@@ -37,5 +37,5 @@ To avoid conflicts simply provide tx and rx pins when constructing. The default 
 В отчете представить скриншоты и описание действий по пунктам, представленным в задании
 
 ## Защита
-* https://www.ru-ebyte.com/news/514
-* https://radiocom.su/information/artikles/?433-868mhz
+* [Источник](https://www.ru-ebyte.com/news/514)
+* [Источник](https://radiocom.su/information/artikles/?433-868mhz)

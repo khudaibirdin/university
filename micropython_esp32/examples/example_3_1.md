@@ -1,3 +1,4 @@
+``` python
 # импорт необходимых модулей
 import network
 import time
@@ -32,3 +33,4 @@ while True:
             print(f"Устройство: MAC={mac_address}")
     else:
         print("Нет подключенных устройств.")
+```

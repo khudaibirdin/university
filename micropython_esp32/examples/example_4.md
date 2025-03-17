@@ -1,3 +1,4 @@
+``` python
 # импорт необходимых модулей
 import urequests
 import network
@@ -48,3 +49,4 @@ print("Response JSON:", response.json())  # получаем ответ в фо�
 print("Response Text:", response.text)   # получаем ответ в текстовом формате
 
 response.close()  # Закрываем соединение
+```

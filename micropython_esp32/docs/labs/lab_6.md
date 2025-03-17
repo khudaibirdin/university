@@ -16,5 +16,5 @@
 В отчете представить скриншоты и описание действий по пунктам, представленным в задании
 
 ## Защита
-* https://habr.com/ru/companies/dsec/articles/685514/ (До атаки)
-* https://www.dhgate.com/ru/blog/what-is-bluetooth-technology-and-how-does-it-work-c/
+* [Источник](https://habr.com/ru/companies/dsec/articles/685514/) (До атаки)
+* [Источник](https://www.dhgate.com/ru/blog/what-is-bluetooth-technology-and-how-does-it-work-c/)
