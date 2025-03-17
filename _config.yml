@@ -6,4 +6,5 @@ title: Лабораторные работы
 description: Худайбирдин И.М.
 minima:
   skin: dark
-  header_pages: ['']
+header_pages:
+  - introduction.md
