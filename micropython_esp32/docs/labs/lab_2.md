@@ -5,7 +5,7 @@
 
 ## Теоретические сведения
 * [Инструкция по прошивке ESP32](../../docs/firmware.md)
-* [Пример кода](../../examples/example_2.py)
+* [Пример кода](../../examples/example_2.md)
 
 ### UART
 ```python
@@ -25,7 +25,7 @@ To avoid conflicts simply provide tx and rx pins when constructing. The default 
 
 ## Задание
 Связь по радиоканалу
-![](../static/433.jpg)
+![](../../static/433.jpg)
 
 1) Собрать схему
 2) Указать номера пинов микроконтроллера, которые соединены с Tx/Rx передатчика.

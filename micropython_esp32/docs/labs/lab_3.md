@@ -5,8 +5,8 @@
 
 ## Теоретические сведения
 * [Инструкция по прошивке ESP32](../../docs/firmware.md)
-* [Пример кода 1](../../examples/example_3_1.py)
-* [Пример кода 2](../../examples/example_3_2.py)
+* [Пример кода 1](../../examples/example_3_1.md)
+* [Пример кода 2](../../examples/example_3_2.md)
 
 **Модуль networking:**
 ```python

@@ -5,7 +5,7 @@
 
 ## Теоретические сведения
 * [Инструкция по прошивке ESP32](../../docs/firmware.md)
-* [Пример кода](../../examples/example_4.py)
+* [Пример кода](../../examples/example_4.md)
 
 ### HTTP (HyperText Transfer Protocol)
 HTTP — это протокол прикладного уровня для передачи данных в сети Интернет. 
