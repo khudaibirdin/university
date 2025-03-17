@@ -8,3 +8,4 @@ minima:
   skin: dark
 header_pages:
   - readme.md
+show_excerpts: false
