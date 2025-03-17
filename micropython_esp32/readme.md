@@ -3,14 +3,16 @@ title: Разработка программного обеспечения на
 layout: home
 ---
 
-## Обучение
+# Обучение
 * [Подготовительные мероприятия](docs/firmware.md)
 * [Загрузка прошивки MicroPython в Thonny](static/firmware.mp4)
 * [Программирование в Thonny](static/program.mp4)
 
-## Теоретические сведения
+# Теоретические сведения
 * [Документация](https://docs.micropython.org/en/latest/esp32/quickref.html)
 * [Перевод (не полностью)](https://wikihandbk.com/wiki/MicroPython:Платы/ESP32/Краткий_справочник_по_ESP32)
+
+# Лабораторные работы
 
 ## [Лабораторная работа №1](docs/labs/lab_1.md)
 Ознакомиться с основами разработки прикладного программного обеспечения для микроконтроллеров на языке MicroPython
