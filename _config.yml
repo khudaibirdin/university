@@ -7,3 +7,4 @@ minima:
   skin: dark
   nav_pages:
     - readme.md
+  header_pages: ['']
