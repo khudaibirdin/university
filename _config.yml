@@ -3,3 +3,7 @@ plugins:
 - jekyll-remote-theme
 title: Лабораторные работы
 description: Худайбирдин И.М.
+minima:
+  skin: dark
+  nav_pages:
+    - readme.md
