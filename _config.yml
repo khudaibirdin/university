@@ -11,3 +11,4 @@ plugins:
   - jekyll-seo-tag
 minima:
   skin: dark
+  show_excerpts: true
