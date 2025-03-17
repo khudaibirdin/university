@@ -1,11 +1,9 @@
 title: Комплекс лабораторных работ
 description: Материалы для лабораторных работ
-author:
-  name: Худайбирдин И.М.
-  email: i-khudaibirdin@yandex.ru
+author: Худайбирдин И.М.
+email: i-khudaibirdin@yandex.ru
 remote_theme: "jekyll/minima@1e8a445"
 header_pages:
-  - 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag

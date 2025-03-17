@@ -1,3 +1,11 @@
+---
+layout: page
+title: Лабораторная работа №3 "Основы работы с Wi-Fi"
+parent: "Разработка программного обеспечения на MicroPython"
+permalink: /micropython_esp32/example/lr_3_2/
+---
+
+
 ``` python
 # импорт необходимых модулей
 import network

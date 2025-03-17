@@ -2,7 +2,7 @@
 layout: page
 title: Лабораторная работа №8
 parent: "Разработка программного обеспечения на MicroPython"
-permalink: /micropython_esp32/lr_8
+permalink: /micropython_esp32/lr_8/
 ---
 
 
@@ -10,7 +10,7 @@ permalink: /micropython_esp32/lr_8
 > Выполнить комплексную работу с Wi-Fi, I2C и датчиком BME280
 
 # Теоретические сведения
-* [Инструкция по прошивке ESP32](../../docs/firmware.md)
+* [Инструкция по прошивке ESP32](/micropython_esp32/firmware/)
 * [Пример кода](../../examples/example_8.md)
 
 # Задание

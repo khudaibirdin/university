@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Лабораторная работа №2 "Основы работы с Wi-Fi"
+title: Лабораторная работа №3 "Основы работы с Wi-Fi"
 parent: "Разработка программного обеспечения на MicroPython"
 permalink: /micropython_esp32/lr_3/
 ---
@@ -10,7 +10,7 @@ permalink: /micropython_esp32/lr_3/
 > Ознакомиться с работой Wi-Fi на микроконтроллере ESP32
 
 # Теоретические сведения
-* [Инструкция по прошивке ESP32](../../docs/firmware.md)
+* [Инструкция по прошивке ESP32](/micropython_esp32/firmware/)
 * [Пример кода 1](../../examples/example_3_1.md)
 * [Пример кода 2](../../examples/example_3_2.md)
 

@@ -2,7 +2,7 @@
 layout: page
 title: Лабораторная работа №9
 parent: "Разработка программного обеспечения на MicroPython"
-permalink: /micropython_esp32/lr_9
+permalink: /micropython_esp32/lr_9/
 ---
 
 
@@ -10,7 +10,7 @@ permalink: /micropython_esp32/lr_9
 > Ознакомиться с 
 
 # Теоретические сведения
-* [Инструкция по прошивке ESP32](../../docs/firmware.md)
+* [Инструкция по прошивке ESP32](/micropython_esp32/firmware/)
 * [Пример кода](../../examples/example_9.md)
 
 # Задание

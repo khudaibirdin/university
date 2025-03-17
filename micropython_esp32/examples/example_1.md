@@ -1,3 +1,10 @@
+---
+layout: page
+title: Лабораторная работа №1 "Реализация ППО для МК на языке MicroPython"
+parent: "Разработка программного обеспечения на MicroPython"
+permalink: /micropython_esp32/example/lr_1/
+---
+
 ``` python
 # импорт необходимых модулей
 from machine import Pin

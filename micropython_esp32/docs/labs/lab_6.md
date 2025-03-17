@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Лабораторная работа №4 "Работа с BLE"
+title: Лабораторная работа №6 "Работа с BLE"
 parent: "Разработка программного обеспечения на MicroPython"
-permalink: /micropython_esp32/lr_6
+permalink: /micropython_esp32/lr_6/
 ---
 
 
@@ -10,7 +10,7 @@ permalink: /micropython_esp32/lr_6
 > Ознакомиться с работой Bluetooth на микроконтроллере ESP32 с применением языка программирования MicroPython
 
 # Теоретические сведения
-* [Инструкция по прошивке ESP32](../../docs/firmware.md)
+* [Инструкция по прошивке ESP32](/micropython_esp32/firmware/)
 * [Пример кода](../../examples/example_6.md)
 
 # Задание

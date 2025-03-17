@@ -1,3 +1,10 @@
+---
+layout: page
+title: Лабораторные работы
+permalink: /micropython_esp32/firmware/
+---
+
+
 # Подготовительные мероприятия
 
 * Необходимо загрузить папку Thonny Portable в удобную директорию

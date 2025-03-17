@@ -1,3 +1,11 @@
+---
+layout: page
+title: Лабораторная работа №6 "Работа с BLE"
+parent: "Разработка программного обеспечения на MicroPython"
+permalink: /micropython_esp32/example/lr_6/
+---
+
+
 ``` python
 import bluetooth
 import time

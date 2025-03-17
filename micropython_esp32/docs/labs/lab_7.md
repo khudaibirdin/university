@@ -2,7 +2,7 @@
 layout: page
 title: Лабораторная работа №7 "Реализация сети Modbus RTU при помощи ESP32"
 parent: "Разработка программного обеспечения на MicroPython"
-permalink: /micropython_esp32/lr_7
+permalink: /micropython_esp32/lr_7/
 ---
 
 
@@ -10,7 +10,7 @@ permalink: /micropython_esp32/lr_7
 > Ознакомиться с реализацией сети Modbus RTU при помощи ESP32 на языке программирования MicroPython
 
 # Теоретические сведения
-* [Инструкция по прошивке ESP32](../../docs/firmware.md)
+* [Инструкция по прошивке ESP32](/micropython_esp32/firmware/)
 * [Пример кода](../../examples/example_7.md)
 
 Схема подключения:

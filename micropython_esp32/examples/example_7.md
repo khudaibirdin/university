@@ -1,3 +1,11 @@
+---
+layout: page
+title: Лабораторная работа №7 "Реализация сети Modbus RTU при помощи ESP32"
+parent: "Разработка программного обеспечения на MicroPython"
+permalink: /micropython_esp32/example/lr_7/
+---
+
+
 ``` python
 from serial import ModbusRTU
 

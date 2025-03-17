@@ -11,7 +11,7 @@ permalink: /micropython_esp32/lr_5/
 > в качестве сервера
 
 # Теоретические сведения
-* [Инструкция по прошивке ESP32](../../docs/firmware.md)
+* [Инструкция по прошивке ESP32](/micropython_esp32/firmware/)
 * [Пример кода](../../examples/example_5.md)
 
 # Задание
