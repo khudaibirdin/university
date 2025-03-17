@@ -1,5 +1,7 @@
 ---
+layout: page
 title: Разработка программного обеспечения на MicroPython
+permalink: /micropython_esp32/
 ---
 
 # Обучение

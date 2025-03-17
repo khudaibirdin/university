@@ -1,13 +1,18 @@
-# Лабораторная работа №2 "Работа с радиопередатчиком по UART"
+---
+layout: page
+title: Лабораторная работа №2 "Работа с радиопередатчиком по UART"
+parent: "Разработка программного обеспечения на MicroPython"
+permalink: /micropython_esp32/lr_2/
+---
 
-## Цель работы
+# Цель работы
 > Ознакомиться с основами работы с UART и передачей информации по 433 МГц
 
-## Теоретические сведения
+# Теоретические сведения
 * [Инструкция по прошивке ESP32](../../docs/firmware.md)
 * [Пример кода](../../examples/example_2.md)
 
-### UART
+## UART
 ```python
 from machine import UART
 
@@ -23,7 +28,7 @@ onboard PSRAM or peripherals.
 Any GPIO can be used for hardware UARTs using the GPIO matrix, except for input-only pins 34-39 that can be used as rx. 
 To avoid conflicts simply provide tx and rx pins when constructing. The default pins listed below.
 
-## Задание
+# Задание
 Связь по радиоканалу
 ![](../../static/433.jpg)
 
@@ -33,9 +38,9 @@ To avoid conflicts simply provide tx and rx pins when constructing. The default 
 4. Другому варианту реализовать код для непрерывной прослушки сообщений и вывода на экран
 5. Объединиться с другим вариантом и организовать прием-передачу данных по радиоканалу
 
-## Отчет
+# Отчет
 В отчете представить скриншоты и описание действий по пунктам, представленным в задании
 
-## Защита
+# Защита
 * [Источник](https://www.ru-ebyte.com/news/514)
 * [Источник](https://radiocom.su/information/artikles/?433-868mhz)
