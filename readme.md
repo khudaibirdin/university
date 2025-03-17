@@ -1,6 +1,5 @@
 ---
 title: Лабораторные работы
-layout: home
 ---
 
 ## [Разработка программного обеспечения на MicroPython](micropython_esp32/)
