@@ -3,10 +3,10 @@ description: Материалы для лабораторных работ
 author: Худайбирдин И.М.
 email: i-khudaibirdin@yandex.ru
 remote_theme: "jekyll/minima@1e8a445"
-header_pages:
+header_pages: []
+  -
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 minima:
   skin: dark
-  show_excerpts: true
