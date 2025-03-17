@@ -4,7 +4,7 @@ author: Худайбирдин И.М.
 email: i-khudaibirdin@yandex.ru
 remote_theme: "jekyll/minima@1e8a445"
 header_pages: 
- - readme.md
+ - 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
