@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Лабораторные работы
-permalink: /micropython_esp32/firmware/
 ---
 
 

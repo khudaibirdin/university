@@ -2,7 +2,6 @@
 layout: page
 title: Лабораторная работа №4 "Взаимодействие с внешними API-сервисами"
 parent: "Разработка программного обеспечения на MicroPython"
-permalink: /micropython_esp32/lr_4/
 ---
 
 

@@ -1,11 +1,10 @@
 ---
 layout: page
 title: Разработка программного обеспечения на MicroPython
-permalink: micropython_esp32/
 ---
 
 # Обучение
-* [Подготовительные мероприятия](docs/firmware.md)
+* [Подготовительные мероприятия](/firmware/)
 * [Загрузка прошивки MicroPython в Thonny](static/firmware.mp4)
 * [Программирование в Thonny](static/program.mp4)
 
@@ -15,7 +14,7 @@ permalink: micropython_esp32/
 
 # Лабораторные работы
 
-## [Лабораторная работа №1](/micropython_esp32/lr_1/)
+## [Лабораторная работа №1](/examples/lr_1/)
 Ознакомиться с основами разработки прикладного программного обеспечения для микроконтроллеров на языке MicroPython
 
 ## [Лабораторная работа №2](docs/labs/lab_2.md)
