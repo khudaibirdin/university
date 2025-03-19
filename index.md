@@ -4,7 +4,7 @@ title: Лабораторные работы
 permalink: /
 ---
 
-# [Разработка программного обеспечения на MicroPython]({{site.baseurl}}/micropython_esp32/)
+# [Разработка программного обеспечения на MicroPython]({{site.baseurl}}/micropython/)
 
 # [Телеуправление и системы телекоммуникаций]({{site.baseurl}}/tuistk/)
 
