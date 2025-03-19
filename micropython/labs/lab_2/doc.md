@@ -9,8 +9,7 @@ parent: "Разработка программного обеспечения н
 > Ознакомиться с основами работы с UART и передачей информации по 433 МГц
 
 # Теоретические сведения
-* [Инструкция по прошивке ESP32](/micropython_esp32/firmware/)
-* [Пример кода](../../examples/example_2.md)
+* [Пример кода]({{site.baseurl}}/micropython/labs/lab_2/example/)
 
 ## UART
 ```python

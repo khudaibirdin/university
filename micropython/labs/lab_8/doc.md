@@ -9,8 +9,7 @@ parent: "Разработка программного обеспечения н
 > Выполнить комплексную работу с Wi-Fi, I2C и датчиком BME280
 
 # Теоретические сведения
-* [Инструкция по прошивке ESP32](/micropython_esp32/firmware/)
-* [Пример кода](../../examples/example_8.md)
+* [Пример кода]({{site.baseurl}}/micropython/labs/lab_8/example/)
 
 # Задание
 

@@ -9,9 +9,7 @@ parent: "Разработка программного обеспечения н
 > Ознакомиться с работой Wi-Fi на микроконтроллере ESP32
 
 # Теоретические сведения
-* [Инструкция по прошивке ESP32](/micropython_esp32/firmware/)
-* [Пример кода 1](../../examples/example_3_1.md)
-* [Пример кода 2](../../examples/example_3_2.md)
+* [Пример кода]({{site.baseurl}}/micropython/labs/lab_3/example/)
 
 **Модуль networking:**
 ```python

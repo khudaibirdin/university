@@ -9,8 +9,7 @@ parent: "Разработка программного обеспечения н
 > Ознакомиться с реализацией сети Modbus RTU при помощи ESP32 на языке программирования MicroPython
 
 # Теоретические сведения
-* [Инструкция по прошивке ESP32](/micropython_esp32/firmware/)
-* [Пример кода](../../examples/example_7.md)
+* [Пример кода]({{site.baseurl}}/micropython/labs/lab_7/example/)
 
 Схема подключения:
 ![](../../static/RS485.jpg)
