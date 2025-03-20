@@ -1,10 +1,11 @@
 ---
 layout: page
 title: Лабораторная работа №9
-description: Пример кода
 parent: "Разработка программного обеспечения на MicroPython"
 ---
 
+
+# Пример кода
 
 ``` python
 import network

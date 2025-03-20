@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Лабораторная работа №9
-description: Описание
 parent: "Разработка программного обеспечения на MicroPython"
 ---
 

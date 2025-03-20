@@ -1,10 +1,11 @@
 ---
 layout: page
 title: Лабораторная работа №7 "Реализация сети Modbus RTU при помощи ESP32"
-description: Пример кода
 parent: "Разработка программного обеспечения на MicroPython"
 ---
 
+
+# Пример кода
 
 ``` python
 from serial import ModbusRTU

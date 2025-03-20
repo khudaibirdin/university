@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Лабораторная работа №6 "Работа с BLE"
-description: Описание
 parent: "Разработка программного обеспечения на MicroPython"
 ---
 
