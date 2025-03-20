@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Лабораторная работа №8
+description: Описание
 parent: "Разработка программного обеспечения на MicroPython"
 ---
 

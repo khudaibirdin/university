@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Лабораторная работа №7 "Реализация сети Modbus RTU при помощи ESP32"
+description: Описание
 parent: "Разработка программного обеспечения на MicroPython"
 ---
 

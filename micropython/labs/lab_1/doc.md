@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Лабораторная работа №1 "Реализация ППО для МК на языке MicroPython"
+description: Описание
 parent: "Разработка программного обеспечения на MicroPython"
 ---
 

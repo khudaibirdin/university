@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Лабораторная работа №3 "Основы работы с Wi-Fi"
+description: Описание
 parent: "Разработка программного обеспечения на MicroPython"
 ---
 
