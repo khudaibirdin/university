@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Лабораторные работы
+title: Направления изучения
 permalink: /
 ---
 
@@ -9,3 +9,5 @@ permalink: /
 # [Телеуправление и системы телекоммуникаций]({{site.baseurl}}/telecommunication/)
 
 # [Программирование микроконтроллеров]({{site.baseurl}}/mcu_programming/)
+
+# [Программное обеспечение автоматизации технологических процессов и производств]({{site.baseurl}/atpp_programming})
