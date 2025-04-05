@@ -92,5 +92,3 @@ QoS 2: Exactly once — сообщение доставляется ровно �
 # Защита
 * [Источник](https://habr.com/ru/articles/463669/)
 * [Источник](https://cloud.vk.com/blog/protokol-peredachi-dannyh-mqtt/)
-
-
