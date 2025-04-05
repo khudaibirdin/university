@@ -3,7 +3,7 @@ layout: page
 title: Разработка программного обеспечения на MicroPython
 ---
 
-![](static/image1.png)
+![](static/image_1.jpg)
 
 # Краткое описание направления
 Материал направлен на:
