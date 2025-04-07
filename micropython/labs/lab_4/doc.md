@@ -104,3 +104,6 @@ curl --location 'http://194.87.111.91/api/v0/get_result' \
 
 # Защита
 * [Источник](https://yandex.cloud/ru/docs/glossary/rest-api?utm_referrer=https%3A%2F%2Fyandex.ru%2F)
+* Для чего используется
+* HTPP методы
+* Технологии реализации API

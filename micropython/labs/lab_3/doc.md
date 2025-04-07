@@ -64,3 +64,4 @@ def do_connect():
 # Защита
 * [Источник](https://habr.com/ru/companies/timeweb/articles/672494/)
 * [Источник](https://habr.com/ru/companies/timeweb/articles/677452/)
+* Что такое сервер, веб-сервер, применение и разработка
