@@ -6,8 +6,8 @@ title: Разработка программного обеспечения на
 
 # Обучение
 * [Подготовительные мероприятия]({{site.baseurl}}/micropython/firmware/)
-* [Загрузка прошивки MicroPython в Thonny](../static/firmware.mp4)
-* [Программирование в Thonny](../static/program.mp4)
+* [Загрузка прошивки MicroPython в Thonny]({{site.baseurl}}/micropython/static/firmware.mp4)
+* [Программирование в Thonny]({{site.baseurl}}/micropython/static/program.mp4)
 
 # Теоретические сведения
 * [Документация](https://docs.micropython.org/en/latest/esp32/quickref.html)
