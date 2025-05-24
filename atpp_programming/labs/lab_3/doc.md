@@ -35,7 +35,7 @@ parent: "Программное обеспечение автоматизаци�
     "university_number": 182551,
     "group": "БАГ-40",
     "parameters": [
-        {"name":"temperature", "value": 100, "state": "H"}
+        {"name":"temperature", "value": 100, "state": "H"},
         {"name":"pressure", "value": 100, "state": "H"}
     ]
 }
