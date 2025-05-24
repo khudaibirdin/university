@@ -7,10 +7,10 @@ title: Программное обеспечение автоматизации 
 # Лабораторные работы
 
 ## [Лабораторная работа №1]({{site.baseurl}}/atpp_programming/labs/lab_1/doc)
-"Разработка ПО для ПЛК на CoDeSys3.5"
+"Разработка ПО для ПЛК на CoDeSys"
 
 ## [Лабораторная работа №2]({{site.baseurl}}/atpp_programming/labs/lab_2/doc)
 "Реализация SCADA-мнемосхемы"
 
 ## [Лабораторная работа №3]({{site.baseurl}}/atpp_programming/labs/lab_3/doc)
-Обработка данных на Python
+"Изучение сетевых протоколов"
