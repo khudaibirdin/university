@@ -14,3 +14,6 @@ title: Программное обеспечение автоматизации 
 
 ## [Лабораторная работа №3]({{site.baseurl}}/atpp_programming/labs/lab_3/doc)
 "Изучение сетевых протоколов"
+
+## [Лабораторная работа №4]({{site.baseurl}}/atpp_programming/labs/lab_4/doc)
+"Теоретические основы уровня SCADA"
