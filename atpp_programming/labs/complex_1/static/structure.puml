@@ -1,0 +1,30 @@
+@startuml c4interaction
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Container.puml
+
+System_Boundary(plc_level, "Средний уровень") {
+    Container(plc, "ПЛК", "CoDeSys", "Взаимодействует с технологическим объектом")
+}
+System_Boundary(statistic, "Статистический анализ") {
+    Container(statistic_app, "Скрипт статистического анализа", "Python", "Анализирует статистическую устойчивость процесса")
+}
+System_Boundary(data_module, "Модуль данных") {
+    Container(data_adapter_http_server, "HTTP-сервер", "Python", "API для получения данных")
+    Container(data_adapter, "Скрипт-адаптер", "Python, sqlite", "Подъем данных и запись в БД")
+    Container(database, "База данных", "MySQL", "Хранение данных")
+    Container(mqtt_broker, "MQTT брокер", "Mosquitto","Сервер взаимодействия MQTT")
+}
+System_Boundary(scada_level, "Верхний уровень") {
+    Container(scada, "SCADA-система", "MasterSCADA/др.","Процесс взаимодействия с опреатором")
+    Container(opc, "OPC-сервер", "OPC", "Получение данных из уровня PLC")
+}
+
+Rel_Up(plc, opc, "Данные технологического процесса", "Modbus TCP")
+Rel_R(opc, scada, "Данные технологического процесса")
+Rel_Down(opc, data_adapter, "Данные технологического процесса")
+Rel(statistic_app, mqtt_broker, "Данные анализа", "json")
+Rel(mqtt_broker, scada, "Результаты статистического анализа", "json")
+
+Rel(data_adapter, database, "Запись данных в БД", "SQL")
+Rel(data_adapter_http_server, database, "Получение данных", "SQL")
+Rel(data_adapter_http_server, statistic_app, "Структурированные данные", "HTTP")
+@enduml

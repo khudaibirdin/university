@@ -17,3 +17,6 @@ title: Программное обеспечение автоматизации 
 
 ## [Лабораторная работа №4]({{site.baseurl}}/atpp_programming/labs/lab_4/doc)
 "Теоретические основы уровня SCADA"
+
+## [Комплексная работа]({{site.baseurl}}/atpp_programming/labs/complex_1/doc)
+"Основы комплексной коммуникации компонентов сети"
