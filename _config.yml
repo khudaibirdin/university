@@ -9,6 +9,10 @@ permalink: pretty
 baseurl: /university
 minima:
   skin: classic
+  social_links:
+    - title: Github
+      icon: github
+      url: "https://github.com/khudaibirdin"
 markdown: kramdown
 kramdown:
   input: GFM
