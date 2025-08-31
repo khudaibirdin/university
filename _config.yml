@@ -1,5 +1,5 @@
 title: Обучающий репозиторий
-description: Материалы для изучения
+description: Материалы для изучения, выполнения работ по основным направлениям в разработке программного обеспечения в области автоматизации технологических процессов
 author:
   name: Худайбирдин И.М.
   email: i-khudaibirdin@yandex.ru
@@ -9,8 +9,6 @@ permalink: pretty
 baseurl: /university
 minima:
   skin: classic
-  nav_pages:
-    - Направления.md
 markdown: kramdown
 kramdown:
   input: GFM
