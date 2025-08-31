@@ -1,6 +1,6 @@
 title: Обучающий репозиторий
 description: Материалы для изучения
-author: 
+author:
   name: Худайбирдин И.М.
   email: i-khudaibirdin@yandex.ru
 remote_theme: "jekyll/minima@1e8a445"
@@ -9,6 +9,8 @@ permalink: pretty
 baseurl: /university
 minima:
   skin: dark
+  nav_pages:
+    - Направления.md
 markdown: kramdown
 kramdown:
   input: GFM
