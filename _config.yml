@@ -8,7 +8,7 @@ header_pages: []
 permalink: pretty
 baseurl: /university
 minima:
-  skin: dark
+  skin: classic
   nav_pages:
     - Направления.md
 markdown: kramdown
