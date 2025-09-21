@@ -41,3 +41,6 @@ title: Разработка программного обеспечения на
 
 ## [Лабораторная работа №9]({{site.baseurl}}/micropython/labs/lab_9/doc)
 "Работа с протоколом MQTT на MicroPython"
+
+## [Лабораторная работа №10]({{site.baseurl}}/micropython/labs/lab_10/doc)
+"Реализация Modbus TCP - MQTT взаимодействия"
