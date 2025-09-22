@@ -41,6 +41,7 @@ To avoid conflicts simply provide tx and rx pins when constructing. The default 
 
 # Отчет
 В отчете представить скриншоты и описание действий по пунктам, представленным в задании
+Отчет по ГОСТу
 
 # Защита
 * [Источник](https://www.ru-ebyte.com/news/514)

@@ -101,6 +101,7 @@ curl --location 'http://194.87.111.91/api/v0/get_result' \
 
 # Отчет
 В отчете представить скриншоты и описание действий по пунктам, представленным в задании
+Отчет по ГОСТу
 
 # Защита
 * [Источник](https://yandex.cloud/ru/docs/glossary/rest-api?utm_referrer=https%3A%2F%2Fyandex.ru%2F)
