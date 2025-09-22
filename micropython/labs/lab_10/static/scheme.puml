@@ -13,9 +13,9 @@ System_Boundary(nodes_area, "Внешние элементы, расположе
     System_Ext(mqtt, "MQTT брокер")
 }
 
-Rel(esp32, node1, "Данные", "Modbus TCP")
-Rel(esp32, node2, "Данные", "Modbus TCP")
-Rel(esp32, node3, "Данные", "Modbus TCP")
+Rel(node1, esp32, "Данные", "Modbus TCP")
+Rel(node2, esp32, "Данные", "Modbus TCP")
+Rel(node3, esp32, "Данные", "Modbus TCP")
 
 Rel_R(esp32, mqtt, "Данные", "MQTT")
 
