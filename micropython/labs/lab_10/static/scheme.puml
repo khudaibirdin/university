@@ -1,16 +1,22 @@
 @startuml Scheme
-!include  https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Container.puml
+!include <C4/C4_Container>
 
-Container(esp32, "ESP32 MCU", "Modbus TCP Master, MQTT producer", "Опрашивает slave устройства по Modbus TCP и отправляет данные в соответствующие топики MQTT")
-Container_Ext(node1, "Датчик температуры", "Modbus TCP Slave", "Измеряет данные о температуре процесса")
-Container_Ext(node2, "Датчик давления", "Modbus TCP Slave", "Измеряет данные о давлении процесса")
-Container_Ext(node3, "Датчик расхода", "Modbus TCP Slave", "Измеряет данные о расходе сырья процесса")
+Container_Boundary(esp32_area, "Wi-Fi сеть студента"){
+    Container(esp32, "ESP32 MCU", "Modbus TCP Master, MQTT producer", "Опрашивает slave устройства по Modbus TCP и отправляет данные в соответствующие топики MQTT")
+}
 
-System_Ext(mqtt, "MQTT брокер")
+System_Boundary(nodes_area, "Внешние элементы, расположенные на сервере преподавателя") {
+    Container_Ext(node1, "Датчик температуры", "Modbus TCP Slave", "Измеряет данные о температуре процесса")
+    Container_Ext(node2, "Датчик давления", "Modbus TCP Slave", "Измеряет данные о давлении процесса")
+    Container_Ext(node3, "Датчик расхода", "Modbus TCP Slave", "Измеряет данные о расходе сырья процесса")
+
+    System_Ext(mqtt, "MQTT брокер")
+}
 
 Rel(esp32, node1, "Данные", "Modbus TCP")
 Rel(esp32, node2, "Данные", "Modbus TCP")
 Rel(esp32, node3, "Данные", "Modbus TCP")
 
 Rel_R(esp32, mqtt, "Данные", "MQTT")
+
 @enduml

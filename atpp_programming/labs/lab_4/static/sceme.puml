@@ -1,10 +1,18 @@
 @startuml Scheme
-!include  https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Container.puml
+!include <C4/C4_Container>
 
-Container_Ext(esp32, "ESP32 MCU", "Modbus TCP Master, MQTT producer", "Опрашивает slave устройства по Modbus TCP и отправляет данные в соответствующие топики MQTT")
-System_Ext(mqtt, "MQTT брокер")
-Container(alarm_detecter, "Alarm Detecter", "MQTT, HTTP", "Слушает очередь MQTT и отправляет факт отклонения данных от нормы на сервер")
-System_Ext(alarm_server, "Alarm Server", "Принимает и фиксирует отклонения данных")
+Container_Boundary(esp32_area, "Wi-Fi сеть студента"){
+    Container_Ext(esp32, "ESP32 MCU", "Modbus TCP Master, MQTT producer", "Опрашивает slave устройства по Modbus TCP и отправляет данные в соответствующие топики MQTT")
+    System_Ext(alarm_server, "Alarm Server", "Принимает и фиксирует отклонения данных")
+}
+
+System_Boundary(nodes_area, "Внешние элементы,\nрасположенные на сервере"){
+    System_Ext(mqtt, "MQTT брокер")
+}
+
+Container_Boundary(programm_area, "ПО на компьютере, расположенное в сети"){
+    Container(alarm_detecter, "Alarm Detecter", "MQTT, HTTP", "Слушает очередь MQTT и отправляет факт отклонения данных от нормы на сервер")
+}
 
 Rel_R(esp32, mqtt, "Данные", "MQTT")
 Rel(mqtt, alarm_detecter, "Данные", "MQTT")
