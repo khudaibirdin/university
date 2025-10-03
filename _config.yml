@@ -18,3 +18,4 @@ kramdown:
   input: GFM
 nav_pages:
   - about.md
+hide_site_feed_link: true
