@@ -4,7 +4,8 @@ author:
   name: Худайбирдин И.М.
   email: i-khudaibirdin@yandex.ru
 remote_theme: "jekyll/minima@1e8a445"
-header_pages: []
+header_pages:
+  - about.md
 permalink: pretty
 baseurl: /university
 minima:
