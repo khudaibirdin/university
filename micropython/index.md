@@ -15,5 +15,3 @@ title: Разработка программного обеспечения на
 # [Теоретический материал]({{site.baseurl}}/micropython/theory/)
 
 # [Лабораторные работы]({{site.baseurl}}/micropython/labs/)
-
-## *[Оставить обратную связь](https://docs.google.com/forms/d/e/1FAIpQLSejGpUBsRG2IhDSR_YFywBlTKLf0yySyrUPkUJhtnGXuG0cqg/viewform?usp=dialog)*
