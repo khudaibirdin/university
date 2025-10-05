@@ -3,7 +3,7 @@ description: Материалы для изучения, выполнения р
 author:
   name: Худайбирдин И.М.
   email: i-khudaibirdin@yandex.ru
-remote_theme: "jekyll/minima@1e8a445"
+theme: "minima"
 header_pages: []
 permalink: pretty
 baseurl: /university
