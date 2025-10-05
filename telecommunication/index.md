@@ -10,7 +10,7 @@ title: Телеуправление и системы телекоммуника
 ## Самостоятельная работа
 
 ## Лабораторные работы
-* ![Кодирование и модуляция информации]({{site.baseurl}}/telecommunication/static/LR1.pdf)
+* [Кодирование и модуляция информации]({{site.baseurl}}/telecommunication/static/LR1.pdf)
 * [Исследование интерфейсов RS422&RS485]({{site.baseurl}}/telecommunication/static/LR2.pdf)
   
 ## Курсовая работа
