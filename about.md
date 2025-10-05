@@ -1,6 +1,7 @@
 ---
-layout: about
-title: О репозитории
+layout: page
+title: About
+permallink /about/
 ---
 
 # Обаутее
