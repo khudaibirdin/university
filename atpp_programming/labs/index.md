@@ -21,8 +21,8 @@ title: Программное обеспечение автоматизации 
 ## [Лабораторная работа №5]({{site.baseurl}}/atpp_programming/labs/lab_5/doc)
 "Теоретические основы уровня SCADA"
 
-
-
+## [Лабораторная работа №6]({{site.baseurl}}/atpp_programming/labs/lab_6/doc)
+"Работа с Modbus TCP"
 
 ## [Комплексная работа]({{site.baseurl}}/atpp_programming/labs/complex_1/doc)
 "Основы комплексной коммуникации компонентов сети"
