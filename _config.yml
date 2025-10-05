@@ -13,9 +13,10 @@ minima:
     - title: Github
       icon: github
       url: "https://github.com/khudaibirdin"
+  nav_pages:
+    - about.md
 markdown: kramdown
 kramdown:
   input: GFM
-nav_pages:
-  - about.md
+
 hide_site_feed_link: true
