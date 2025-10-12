@@ -11,3 +11,7 @@ permalink: /
 
 
 ### [Направления]({{site.baseurl}}/Направления/)
+
+<a href="{{ '/Направления/' | relative_url }}" style="display: block; text-align: center;">
+    <img src="{{ '/static/title_directions.png' | relative_url }}">
+</a>
