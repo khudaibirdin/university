@@ -9,10 +9,6 @@ title: Разработка программного обеспечения на
 * [Загрузка прошивки MicroPython в Thonny]({{site.baseurl}}/micropython/static/firmware.mp4)
 * [Программирование в Thonny]({{site.baseurl}}/micropython/static/program.mp4)
 
-# Теоретические сведения
-* [Документация](https://docs.micropython.org/en/latest/esp32/quickref.html)
-* [Перевод (не полностью)](https://wikihandbk.com/wiki/MicroPython:Платы/ESP32/Краткий_справочник_по_ESP32)
-
 # Лабораторные работы
 
 ## [Лабораторная работа №1]({{site.baseurl}}/micropython/labs/lab_1/doc)
