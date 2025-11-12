@@ -5,6 +5,7 @@ parent: "Разработка программного обеспечения н
 ---
 
 ## Ссылки на полезные материалы
+* **[Репозиторий Awesome по MicroPython на GitHub](https://github.com/mcauser/awesome-micropython#readme)**
 * [Официальный сайт MicroPython](https://micropython.org/)
 * [Официальная документация](https://docs.micropython.org/en/latest/esp32/quickref.html)
 * [Перевод (не полностью)](https://wikihandbk.com/wiki/MicroPython:Платы/ESP32/Краткий_справочник_по_ESP32)
