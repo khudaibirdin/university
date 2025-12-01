@@ -9,18 +9,8 @@
       <span>{{ site.title | escape }}</span>
     </a>
 
-    {%- if site.nav_pages -%}
-    {%- for page_path in site.navigation_pages -%}
-    {%- assign page_item = site.pages | where: "path", page_path | first -%}
-    {%- if page_item -%}
-    <a class="page-link" href="{{ page_item.url | relative_url }}">
-      {{ page_item.title | default: page_item.name | replace: ".md", "" | capitalize }}
-    </a>
-    {%- endif -%}
-    {%- endfor -%}
-    {%- else -%}
-    <!-- Fallback если navigation_pages не определен -->
-    <a class="page-link" href="{{ '/about/' | relative_url }}">О проекте</a>
-    {%- endif -%}
+    <nav class="site-nav">
+      <a class="page-link" href="{{ '/about/' | relative_url }}">О проекте</a>
+    </nav>
   </div>
 </header>
