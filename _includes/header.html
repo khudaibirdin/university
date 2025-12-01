@@ -9,7 +9,7 @@
       <span>{{ site.title | escape }}</span>
     </a>
 
-    {%- if site.navigation_pages -%}
+    {%- if site.nav_pages -%}
     {%- for page_path in site.navigation_pages -%}
     {%- assign page_item = site.pages | where: "path", page_path | first -%}
     {%- if page_item -%}
