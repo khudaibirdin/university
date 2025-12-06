@@ -6,6 +6,8 @@ author:
 remote_theme: "jekyll/minima@1e8a445"
 permalink: pretty
 baseurl: /university
+header_pages:
+  - about.md
 minima:
   skin: classic
   social_links:
@@ -15,6 +17,8 @@ minima:
   hide_site_feed_link: true
   nav_pages:
     - about.md
+  header_pages:
+  - about.md
 markdown: kramdown
 kramdown:
   input: GFM
