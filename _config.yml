@@ -8,6 +8,7 @@ permalink: pretty
 baseurl: /university
 header_pages:
   - about.md
+  - common_conditions.md
 minima:
   skin: classic
   social_links:
@@ -17,7 +18,6 @@ minima:
   hide_site_feed_link: true
   nav_pages:
     - about.md
-    - common_conditions.md
   header_pages:
   - about.md
 markdown: kramdown
