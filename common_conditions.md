@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Общие требования к выполняемым работам
+title: Общие требования
 permalink: /common_conditions/
 ---
 
