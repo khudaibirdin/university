@@ -3,14 +3,10 @@ layout: page
 title: Промышленные сетевые протоколы М2М
 ---
 
-# [Тема 1]({{site.baseurl}}/m2m/theory/theme_1/doc)
-Основы М2М-коммуникаций в промышленных системах
+## [Т1 Основы М2М-коммуникаций в промышленных системах]({{site.baseurl}}/m2m/theory/theme_1/doc)
 
-# [Тема 2]({{site.baseurl}}/m2m/theory/theme_2/doc)
-Протоколы Modbus TCP и MQTT в АСУ ТП
+## [Т2 Протоколы Modbus TCP и MQTT в АСУ ТП]({{site.baseurl}}/m2m/theory/theme_2/doc)
 
-# [Тема 3]({{site.baseurl}}/m2m/theory/theme_3/doc)
-Подключение микроконтроллеров к беспроводным сетям (Wi-Fi)
+## [Т3 Подключение микроконтроллеров к беспроводным сетям (Wi-Fi)]({{site.baseurl}}/m2m/theory/theme_3/doc)
 
-# [Тема 4]({{site.baseurl}}/m2m/theory/theme_4/doc)
-Критерии выбора М2М-протоколов для нефтегазовых объектов
+## [Т4 Критерии выбора М2М-протоколов для нефтегазовых объектов]({{site.baseurl}}/m2m/theory/theme_4/doc)

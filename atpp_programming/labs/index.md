@@ -6,23 +6,16 @@ title: Программное обеспечение автоматизации 
 
 # Лабораторные работы
 
-## [Лабораторная работа №1]({{site.baseurl}}/atpp_programming/labs/lab_1/doc)
-"Разработка ПО для ПЛК на CoDeSys"
+## [ЛР1 "Разработка ПО для ПЛК на CoDeSys"]({{site.baseurl}}/atpp_programming/labs/lab_1/doc)
 
-## [Лабораторная работа №2]({{site.baseurl}}/atpp_programming/labs/lab_2/doc)
-"Реализация SCADA-мнемосхемы"
+## [ЛР2 "Реализация SCADA-мнемосхемы"]({{site.baseurl}}/atpp_programming/labs/lab_2/doc)
 
-## [Лабораторная работа №3]({{site.baseurl}}/atpp_programming/labs/lab_3/doc)
-"Изучение сетевых протоколов"
+## [ЛР3 "Изучение сетевых протоколов"]({{site.baseurl}}/atpp_programming/labs/lab_3/doc)
 
-## [Лабораторная работа №4]({{site.baseurl}}/atpp_programming/labs/lab_4/doc)
-"Изучение сетевых протоколов"
+## [ЛР4 "Изучение сетевых протоколов"]({{site.baseurl}}/atpp_programming/labs/lab_4/doc)
 
-## [Лабораторная работа №5]({{site.baseurl}}/atpp_programming/labs/lab_5/doc)
-"Теоретические основы уровня SCADA"
+## [ЛР5 "Теоретические основы уровня SCADA"]({{site.baseurl}}/atpp_programming/labs/lab_5/doc)
 
-## [Лабораторная работа №6]({{site.baseurl}}/atpp_programming/labs/lab_6/doc)
-"Работа с Modbus TCP"
+## [ЛР6 "Работа с Modbus TCP"]({{site.baseurl}}/atpp_programming/labs/lab_6/doc)
 
-## [Комплексная работа]({{site.baseurl}}/atpp_programming/labs/complex_1/doc)
-"Основы комплексной коммуникации компонентов сети"
+## [Компл1 "Основы комплексной коммуникации компонентов сети"]({{site.baseurl}}/atpp_programming/labs/complex_1/doc)

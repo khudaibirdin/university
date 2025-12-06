@@ -11,32 +11,22 @@ title: Разработка программного обеспечения на
 
 # Лабораторные работы
 
-## [Лабораторная работа №1]({{site.baseurl}}/micropython/labs/lab_1/doc)
-"Реализация ППО для МК на языке MicroPython"
+## [ЛР1 "Реализация ППО для МК на языке MicroPython"]({{site.baseurl}}/micropython/labs/lab_1/doc)
 
-## [Лабораторная работа №2]({{site.baseurl}}/micropython/labs/lab_2/doc)
-"Работа с радиопередатчиком по UART"
+## [ЛР2 "Работа с радиопередатчиком по UART"]({{site.baseurl}}/micropython/labs/lab_2/doc)
 
-## [Лабораторная работа №3]({{site.baseurl}}/micropython/labs/lab_3/doc)
-"Основы работы с Wi-Fi"
+## [ЛР3 "Основы работы с Wi-Fi"]({{site.baseurl}}/micropython/labs/lab_3/doc)
 
-## [Лабораторная работа №4]({{site.baseurl}}/micropython/labs/lab_4/doc)
-"Взаимодействие с внешними API-сервисами"
+## [ЛР4 "Взаимодействие с внешними API-сервисами"]({{site.baseurl}}/micropython/labs/lab_4/doc)
 
-## [Лабораторная работа №5]({{site.baseurl}}/micropython/labs/lab_5/doc)
-"Создание Telegram-бота на ESP32"
+## [ЛР5 "Создание Telegram-бота на ESP32"]({{site.baseurl}}/micropython/labs/lab_5/doc)
 
-## [Лабораторная работа №6]({{site.baseurl}}/micropython/labs/lab_6/doc)
-"Работа с BLE"
+## [ЛР6 "Работа с BLE"]({{site.baseurl}}/micropython/labs/lab_6/doc)
 
-## [Лабораторная работа №7]({{site.baseurl}}/micropython/labs/lab_7/doc)
-"Реализация сети Modbus RTU при помощи ESP32"
+## [ЛР7 "Реализация сети Modbus RTU при помощи ESP32"]({{site.baseurl}}/micropython/labs/lab_7/doc)
 
-## [Лабораторная работа №8]({{site.baseurl}}/micropython/labs/lab_8/doc)
-"Комплексная работа с периферией"
+## [ЛР8 "Комплексная работа с периферией"]({{site.baseurl}}/micropython/labs/lab_8/doc)
 
-## [Лабораторная работа №9]({{site.baseurl}}/micropython/labs/lab_9/doc)
-"Работа с протоколом MQTT на MicroPython"
+## [ЛР9 "Работа с протоколом MQTT на MicroPython"]({{site.baseurl}}/micropython/labs/lab_9/doc)
 
-## [Лабораторная работа №10]({{site.baseurl}}/micropython/labs/lab_10/doc)
-"Реализация Modbus TCP - MQTT взаимодействия"
+## [ЛР10 "Реализация Modbus TCP - MQTT взаимодействия"]({{site.baseurl}}/micropython/labs/lab_10/doc)
