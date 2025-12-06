@@ -4,7 +4,6 @@ author:
   name: Худайбирдин И.М.
   email: i-khudaibirdin@yandex.ru
 remote_theme: "jekyll/minima@1e8a445"
-header_pages: []
 permalink: pretty
 baseurl: /university
 minima:
@@ -14,6 +13,8 @@ minima:
       icon: github
       url: "https://github.com/khudaibirdin"
   hide_site_feed_link: true
+  nav_pages:
+    - about.md
 markdown: kramdown
 kramdown:
   input: GFM
