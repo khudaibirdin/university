@@ -19,6 +19,7 @@ minima:
     - about.md
   header_pages:
   - about.md
+  - common_conditions.md
 markdown: kramdown
 kramdown:
   input: GFM

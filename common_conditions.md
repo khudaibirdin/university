@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Общие требования к выполняемым работам
+permalink: /common_conditions/
 ---
 
 # Выполнение работы
