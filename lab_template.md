@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Лабораторная работа № ""
+title: ЛР1 ""
 parent: ""
 ---
 

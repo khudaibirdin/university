@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Лабораторная работа №10 "Реализация Modbus TCP - MQTT взаимодействия"
+title: ЛР10 "Реализация Modbus TCP - MQTT взаимодействия"
 parent: "Разработка программного обеспечения на MicroPython"
 ---
 
