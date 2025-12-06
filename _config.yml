@@ -18,3 +18,5 @@ minima:
 markdown: kramdown
 kramdown:
   input: GFM
+include:
+  - _pages
