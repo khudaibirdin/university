@@ -17,9 +17,9 @@ minima:
   hide_site_feed_link: true
   nav_pages:
     - about.md
+    - common_conditions.md
   header_pages:
   - about.md
-  - common_conditions.md
 markdown: kramdown
 kramdown:
   input: GFM
