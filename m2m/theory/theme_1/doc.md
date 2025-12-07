@@ -78,7 +78,7 @@ Zigbee - стандарт беспроводной связи для умных 
 Zigbee не предназначен для передачи большого количества данных, и используется в системах IoT для передачи показаний сенсоров, для чего и подходит максимально хорошо.
 
 Пример реализации:
-![Пример реализации ZigBee](zigbee_example.png)
+![Пример реализации ZigBee](static/zigbee_example.png)
 
 ## LoRaWAN
 
@@ -121,3 +121,5 @@ LoRa (Long Range) - это фактически вид модуляции сиг
 * [Источник](https://xakep.ru/2019/09/30/zigbee-exploits/)
 * [Источник](https://ivan.bessarabov.ru/blog/what-is-zigbee)
 * [Источник](https://lar.tech/blog/chto-takoe-lorawan/)
+* [Источник](https://www.mdpi.com/1424-8220/19/1/215/xml)
+* [Источник](https://gelecekbt.com/RS485-to-LORA-Converter-CLR-LORA-C485D)
