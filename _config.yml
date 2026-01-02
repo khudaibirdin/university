@@ -16,6 +16,9 @@ minima:
     - title: Github
       icon: github
       url: "https://github.com/khudaibirdin"
+    - title: Telegram
+      icon: telegram
+      url: "https://t.me/khudaibirdin"
   hide_site_feed_link: true
 markdown: kramdown
 kramdown:
