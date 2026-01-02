@@ -1,7 +1,6 @@
 ---
 layout: page
-title: ЛР1 ""
-parent: ""
+title: ЛР1 
 ---
 
 
