@@ -96,4 +96,4 @@ Modbus был представлен в 1979 году компанией Modicon
 # Протоколы Event Sourcing
 
 # Источники
-[Источник](https://habr.com/ru/companies/advantech/articles/450234/), [Источник](https://ipc2u.ru/articles/prostye-resheniya/modbus-rtu/), [Источник](https://cloud.vk.com/blog/modbus-dlya-m2m-vzaimodejstviya/)
+[Источник](https://habr.com/ru/companies/advantech/articles/450234/), [Источник](https://ipc2u.ru/articles/prostye-resheniya/modbus-rtu/), [Источник](https://cloud.vk.com/blog/modbus-dlya-m2m-vzaimodejstviya/), [Источник](https://commons.wikimedia.org/wiki/File:PLC_Cabinet_for_centrifugal_compressor.JPG)
