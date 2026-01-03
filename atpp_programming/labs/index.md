@@ -8,7 +8,7 @@ title: Программное обеспечение автоматизации 
 
 ## [ЛР1 Разработка ПО для ПЛК на CoDeSys]({{site.baseurl}}/atpp_programming/labs/lab_1/doc)
 
-## [ЛР2 Реализация SCADA-мнемосхемы]({{site.baseurl}}/atpp_programming/labs/lab_2/doc)
+## ~~[ЛР2 Реализация SCADA-мнемосхемы]({{site.baseurl}}/atpp_programming/labs/lab_2/doc)~~
 
 ## [ЛР3 Изучение сетевых протоколов]({{site.baseurl}}/atpp_programming/labs/lab_3/doc)
 
