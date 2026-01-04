@@ -28,7 +28,7 @@ title: Т3 Подключение микроконтроллеров к бесп
 
 Модуль Ethernet:
 
-<img src="./static/ethernet_module.png" width="400">
+<img src="../static/ethernet_module.png" width="400">
 
 Модуль LoRa:
 
