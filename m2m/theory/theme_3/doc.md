@@ -26,13 +26,13 @@ title: Т3 Подключение микроконтроллеров к бесп
 
 Для других технологий используются собственные модули.
 
-Модуль Ethernet:
+Модули Ethernet и LoRa:
 
-<img src="../static/ethernet_module.png" width="400">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="../static/ethernet_module.png" width="400">
+  <img src="../static/lorawan_module.png" width="400">
+</div>
 
-Модуль LoRa:
-
-![alt text](static/lorawan_module.png)
 
 ## Прикладной уровень
 
