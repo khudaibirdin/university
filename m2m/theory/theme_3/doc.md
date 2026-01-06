@@ -50,10 +50,11 @@ title: Т3 Подключение микроконтроллеров к бесп
 
 Пример на языке C:
 
-``` C
+``` C++
 #include <ESP8266WiFi.h>
 #define WIFI_SSID "ssid"
 #define WIFI_PASS "pw"
+
 void setup() {
   Serial.begin(115200);
   WiFi.begin(WIFI_SSID, WIFI_PASS);
@@ -64,6 +65,7 @@ void setup() {
   Serial.println("Connected");
   Serial.println(WiFi.localIP());
 }
+
 void loop() {
 }
 ```
