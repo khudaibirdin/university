@@ -8,4 +8,4 @@ title: Промышленные сетевые протоколы М2М
 
 ## [ЛР1 Развертывание инфраструктурных сервисов]({{site.baseurl}}/m2m/labs/lab_1/doc)
 
-## [ЛР2 Протоколы M2M и SCADA-системы]({{site.baseurl}}/m2m/labs/lab_2/doc)
+## [ЛР2 Интеграция протоколов M2M и SCADA-системы]({{site.baseurl}}/m2m/labs/lab_2/doc)
