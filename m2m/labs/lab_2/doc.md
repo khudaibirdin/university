@@ -13,17 +13,17 @@ title: ЛР2 Интеграция протоколов M2M и SCADA-систем
 
 Варианты:
 
-| Вариант | SCADA                                                                  | Протокол   |
-| ------- | ---------------------------------------------------------------------- | ---------- |
-| 1       | [MasterSCADA 4D](https://insat.ru/scada/scada-systema-masterscada-4d/) | MQTT       |
-| 2       | [Rapid SCADA](https://rapidscada.ru/)                                  | MQTT       |
-| 3       | [SIMPLE-SCADA](https://simple-scada.com/)                              | MQTT       |
-| 4       | [MasterSCADA 4D](https://insat.ru/scada/scada-systema-masterscada-4d/) | Modbus TCP |
-| 5       | [Rapid SCADA](https://rapidscada.ru/)                                  | Modbus TCP |
-| 6       | [SIMPLE-SCADA](https://simple-scada.com/)                              | Modbus TCP |
+| Вариант | SCADA                                                                  | Протокол   | Язык скрипта |
+| ------- | ---------------------------------------------------------------------- | ---------- | ------------ |
+| 1       | [MasterSCADA 4D](https://insat.ru/scada/scada-systema-masterscada-4d/) | MQTT       | Python       |
+| 2       | [Rapid SCADA](https://rapidscada.ru/)                                  | MQTT       | Go           |
+| 3       | [SIMPLE-SCADA](https://simple-scada.com/)                              | MQTT       | Python       |
+| 4       | [MasterSCADA 4D](https://insat.ru/scada/scada-systema-masterscada-4d/) | Modbus TCP | Go           |
+| 5       | [Rapid SCADA](https://rapidscada.ru/)                                  | Modbus TCP | Python       |
+| 6       | [SIMPLE-SCADA](https://simple-scada.com/)                              | Modbus TCP | Go           |
 
 ## SCADA
-Необходимо установить SCADA-систему по инструкции с официального сайта согласно варианту.
+Необходимо установить SCADA-систему по инструкции с официального сайта **согласно варианту**.
 При установке (если продукт платный) выбрать версию с ограниченным количеством тэгов.
 Установить вспомогательные программы, если требуется.
 
@@ -33,7 +33,7 @@ title: ЛР2 Интеграция протоколов M2M и SCADA-систем
 * добавление графиков изменения
 
 ## Опрашиваемое устройство
-Необходимо реализовать программу (Python), которая будет взаимодействовать по протоколу, описанному в варианте и отправлять данные на SCADA.
+Необходимо реализовать программу на языке, **согласно варианту**, которая будет взаимодействовать по протоколу, **согласно варианту**, и отправлять данные на SCADA.
 
 ## Передаваемые данные
 Необходимо отправлять значение bool и значение int, которые можно задать с клавиатуры из cli скрипта в runtime-режиме.
