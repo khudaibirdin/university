@@ -12,6 +12,8 @@ title: Программное обеспечение автоматизации 
 
 ## [ЛР3 Изучение сетевых протоколов]({{site.baseurl}}/atpp_programming/labs/lab_3/doc)
 
+## [ЛР3.1 Изучение сетевых протоколов]({{site.baseurl}}/atpp_programming/labs/lab_3.1/doc)
+
 ## [ЛР4 Изучение сетевых протоколов v2]({{site.baseurl}}/atpp_programming/labs/lab_4/doc)
 
 ## [ЛР5 Теоретические основы уровня SCADA]({{site.baseurl}}/atpp_programming/labs/lab_5/doc)
