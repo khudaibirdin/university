@@ -33,8 +33,8 @@ curl --location 'http://IPADDRESS:3259/pressure' \
 
 ```json
 {
-	"measure": "pressure",
-	"value": 1374.2278
+  "measure": "pressure",
+  "value": 1374.2278
 }
 ```
 
@@ -81,6 +81,36 @@ curl --location 'http://IPADDRESS:3259/temperature' \
       "value": 1374.2278
     }
   ]
+}
+```
+
+Для проверки успешности выполнения работы, нужно отправить запрос:
+
+``` bash
+curl --location 'http://IPADDRESS:3259/result' \
+--header 'First-Name: Ivan' \
+--header 'Last-Name: Ivanov'
+```
+
+Примеры ответов:
+
+**Отрицательный результат**:
+
+``` json
+{
+  "first_name": "Ivans",
+  "last_name": "Ivanov",
+  "status": "no registration"
+}
+```
+
+**Положительный результат**:
+
+``` json
+{
+  "first_name": "Ivan",
+  "last_name": "Ivanov",
+  "status": "success"
 }
 ```
 
